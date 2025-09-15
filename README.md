@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**jsheldon640/jsheldon640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$\color{red}Ja\color{orage}me\color{yellow}s\ \color{green}Sh\color{blue}el\color{indigo}do\color{violet}n$
 
 Here are some ideas to get you started:
 
